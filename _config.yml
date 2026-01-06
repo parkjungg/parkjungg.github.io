@@ -9,11 +9,11 @@ github_username: parkjungg
 instagram_username: jg_giig
 
 # External API
-giscus_repo: "byanko55/jekyll-theme-satellite"
-giscus_repoId: "R_kgDOJ6fqWg"
+giscus_repo: "parkjungg/parkjungg.github.io"
+giscus_repoId: "R_kgDOQz9ywA"
 giscus_category: "Q&A"
-giscus_categoryId: "DIC_kwDOJ6fqWs4Cc7p7"
-goatcounter_code: byanko77
+giscus_categoryId: "DIC_kwDOQz9ywM4C0oQD"
+goatcounter_code: parkjungg
 google_analytics:
 
 # If your repo name follows the format "<user-name>.github.io", then leave the below blank.
