@@ -24,7 +24,7 @@ tags:
 
 능숙해지면 모든 것을 내가 커스텀하는 부분에서 좋겠지만, 아직은 적응 단계라는 것..
 
-![Image1.png]({{site.baseurl}}/_pages/일상/잡것/Image1.png)
+![Image1.png]({{site.baseurl}}/assets/img/Image1.jpg)
 
 그래도 적응하면 좀 멋있어 보이기 때문에 그냥 이왕한 거 진행하기로 결정!!(개발자니깐 이정도는 해야지
 
