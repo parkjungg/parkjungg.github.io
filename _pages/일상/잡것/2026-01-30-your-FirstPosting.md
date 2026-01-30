@@ -3,6 +3,7 @@ title: 개발 블로그를 시작하며..
 date: '2026-01-30'
 tags:
   - Markdown - prose.io - github.io
+thumbnail: "/assets/img/Image1.jpg"
 ---
 # 개발 블로그를 시작하며...
 
