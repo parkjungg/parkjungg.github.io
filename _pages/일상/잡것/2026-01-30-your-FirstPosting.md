@@ -3,7 +3,7 @@ title: 개발 블로그를 시작하며..
 date: '2026-01-30'
 tags:
   - Markdown - prose.io - github.io
-thumbnail: /assets/img/Image1.png
+thumbnail: /assets/img/1/image1.png
 ---
 # 개발 블로그를 시작하며...
 
@@ -27,7 +27,9 @@ thumbnail: /assets/img/Image1.png
 
 능숙해지면 모든 것을 내가 커스텀하는 부분에서 좋겠지만, 아직은 적응 단계라는 것..
 
-<img src="/assets/img/Image1.png" alt="이미지" width="50%">
+<img src="/assets/img/1/image1.png"
+     alt="이미지"
+     style="width:50%; display:block; margin:0 auto;">
 *그래도 친절히 설명되어있다*
 
 그래도 적응하면 좀 멋있어 보이기 때문에 그냥 이왕한 거 진행하기로 결정!!(개발자니깐 이정도는 해야지😄)
@@ -36,5 +38,7 @@ thumbnail: /assets/img/Image1.png
 
 근데 정리 할 것 산더미네...😅
 
-![]({{site.baseurl}}_pages/일상/잡것/image2.png)
+<img src="/assets/img/1/image2.png"
+     alt="이미지"
+     style="width:50%; display:block; margin:0 auto;">
 *언젠가 다하겠지?*
