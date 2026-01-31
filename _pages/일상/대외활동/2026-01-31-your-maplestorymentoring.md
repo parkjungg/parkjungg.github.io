@@ -10,13 +10,17 @@ thumbnail: /assets/img/2/image1.png
 
 이번에 넥슨에서 주관하는 메이플스토리 대학생 게임 커리어 캠프인 메토링 4기 참여자를 모집한다고 해서 지원하였다.
 
+<img src="/assets/img/2/image1.png"
+     alt="이미지"
+     style="width:70%; display:block; margin:0 auto;">
+
 여기서 메토링이란...
 
 대학(원)생 및 취준생들을 위한 게임 커리어 캠프로 현직자분들이 게임 직무 교육, 현직자 커리어 멘토링, 그리고 메이플스토리에서 실제로 고민하고 있는 문제들을 우리가 직접 해결해보는 경험까지 해볼 수 있다!
 
 <img src="/assets/img/2/image2.png"
      alt="이미지"
-     style="width:50%; display:block; margin:0 auto;">
+     style="width:60%; display:block; margin:0 auto;">
      
 *심지어 굿즈랑 수료증도 주고, 시상도 있다!!*
 
