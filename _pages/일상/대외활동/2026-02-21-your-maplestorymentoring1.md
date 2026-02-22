@@ -134,6 +134,17 @@ thumbnail: /assets/img/4/image2.png
 
 그래서 용인에 위치한 숙소시설이 갖춰진 연수원에서 대부분 활동을 진행하게 되는데 Value Chain을 모두 마치고 바로 연수원으로 버스를 20분정도 타고 이동했다.
 
+<img src="/assets/img/4/image9.png"
+     alt="이미지"
+     style="
+       max-width: 60%;
+       height: auto;
+       display: block;
+       margin: 20px auto;
+       border-radius: 8px;
+       box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+     ">
+
 
 ### 파티 플레이
 
