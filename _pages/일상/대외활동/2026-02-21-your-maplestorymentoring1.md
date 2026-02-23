@@ -143,6 +143,17 @@ thumbnail: /assets/img/4/image2.png
 
 특이하게... 메이플스토리 캠프답게 메이플스토리 최고 레벨을 적는 칸이 있었다.(당당하게 최고레벨 작성)
 
+<img src="/assets/img/4/image10.png"
+     alt="이미지"
+     style="
+       max-width: 60%;
+       height: auto;
+       display: block;
+       margin: 20px auto;
+       border-radius: 8px;
+       box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+     ">
+
 그리고 이후에는 퀴즈를 푸는 시간을 가져 파티의 협업을 처음으로 진행하였다.
 
 퀴즈는 약간 넌센스 느낌의 추리 퀴즈였는데... 문제를 나눠 풀기로 하였지만....

@@ -5,16 +5,11 @@ tags:
   - 메이플스토리
   - 메토링 4기
   - 넥슨 대학생 게임 커리어 캠프
-thumbnail: /assets/img/5/image.png
+thumbnail: /assets/img/5/image8.png
 ---
 
-<a href="https://parkjungg.github.io/일상/대외활동/2026-02-21-your-maplestorymentoring1.html" target="_blank">
-  <img src="/assets/img/4/image2.png" style="width:50%;">
-</a>
-**→ 이전 참가 후기 글 이동하기**
 
-
-#2일차(2월 7일)
+# 2일차(2월 7일)
 
 9시까지 모이는 일정이었고, 원래는 아침을 희망하면 먹을 수 있었는데 본인은 식욕보다 수면욕이 강해서 자연스럽게 거르게 됨..😅
 
@@ -29,10 +24,10 @@ thumbnail: /assets/img/5/image.png
 
 <div style="display: flex; gap: 20px; justify-content: center;">
 
-  <img src="/assets/img/4/image1.png"
+  <img src="/assets/img/5/image1.png"
        style="width: 30%; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
 
-  <img src="/assets/img/4/image2.png"
+  <img src="/assets/img/5/image2.png"
        style="width: 30%; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
 
 </div>
@@ -77,7 +72,7 @@ thumbnail: /assets/img/5/image.png
 
 또 파티원들과 맛잇게 점심 밥을 먹으며 이야기하고..
 
-<img src="/assets/img/2/image3.png"
+<img src="/assets/img/5/image4.png"
      alt="이미지"
      style="
        max-width: 60%;
@@ -95,10 +90,10 @@ thumbnail: /assets/img/5/image.png
 
 <div style="display: flex; gap: 20px; justify-content: center;">
 
-  <img src="/assets/img/4/image1.png"
+  <img src="/assets/img/5/image5.png"
        style="width: 30%; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
 
-  <img src="/assets/img/4/image2.png"
+  <img src="/assets/img/5/image6.png"
        style="width: 30%; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
 
 </div>
@@ -128,7 +123,7 @@ thumbnail: /assets/img/5/image.png
 
 또 저녁밥 먹고 조금 쉬다가...
 
-<img src="/assets/img/2/image3.png"
+<img src="/assets/img/5/image7.png"
      alt="이미지"
      style="
        max-width: 60%;
@@ -142,7 +137,7 @@ thumbnail: /assets/img/5/image.png
 
 ## 대망의 최종 과제 주제 발표 시간
 
-<img src="/assets/img/2/image3.png"
+<img src="/assets/img/5/image8.png"
      alt="이미지"
      style="
        max-width: 60%;
