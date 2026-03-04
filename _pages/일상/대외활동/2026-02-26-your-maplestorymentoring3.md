@@ -296,19 +296,25 @@ thumbnail: /assets/img/6/image13.png
 
 다들 너무 좋은 말만 써줘서 내가 롤링페이퍼를 작성할때 조금 더 자세히 써줄 걸 하는 후회가.. 좀 들었다.
 
- <div style="display: flex; gap: 20px; justify-content: center;">
+<div style="
+  display: flex;
+  gap: 20px;
+  overflow-x: auto;
+  white-space: nowrap;
+  padding-bottom: 10px;
+">
 
   <img src="/assets/img/6/image16.png"
-       style="width: 30%; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+       style="width: 300px; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
 
   <img src="/assets/img/6/image17.png"
-       style="width: 30%; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+       style="width: 300px; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
 
   <img src="/assets/img/6/image18.png"
-       style="width: 30%; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+       style="width: 300px; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
 
   <img src="/assets/img/6/image19.png"
-       style="width: 30%; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+       style="width: 300px; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
 
 </div>
      
