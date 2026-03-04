@@ -35,10 +35,10 @@ thumbnail: /assets/img/6/image13.png
 <div style="display: flex; gap: 20px; justify-content: center;">
 
   <img src="/assets/img/6/image1.png"
-       style="width: 30%; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+       style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
 
   <img src="/assets/img/6/image2.png"
-       style="width: 30%; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+       style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
 
 </div>
 
@@ -68,10 +68,10 @@ thumbnail: /assets/img/6/image13.png
  <div style="display: flex; gap: 20px; justify-content: center;">
 
   <img src="/assets/img/6/image5.png"
-       style="width: 30%; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+       style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
 
   <img src="/assets/img/6/image6.png"
-       style="width: 30%; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+       style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
 
 </div>
 
@@ -100,10 +100,10 @@ thumbnail: /assets/img/6/image13.png
  <div style="display: flex; gap: 20px; justify-content: center;">
 
   <img src="/assets/img/6/image8.png"
-       style="width: 30%; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+       style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
 
   <img src="/assets/img/6/image9.png"
-       style="width: 30%; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+       style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
 
 </div>
      
@@ -305,16 +305,16 @@ thumbnail: /assets/img/6/image13.png
 ">
 
   <img src="/assets/img/6/image16.png"
-       style="width: 300px; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+       style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
 
   <img src="/assets/img/6/image17.png"
-       style="width: 300px; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+       style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
 
   <img src="/assets/img/6/image18.png"
-       style="width: 300px; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+       style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
 
   <img src="/assets/img/6/image19.png"
-       style="width: 300px; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+       style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
 
 </div>
      
@@ -406,7 +406,7 @@ thumbnail: /assets/img/6/image13.png
 
 <script>
 document.addEventListener("DOMContentLoaded", function() {
-  const images = Array.from(document.querySelectorAll("img"));
+  const images = Array.from(document.querySelectorAll("img[src^='/assets/img/6/']"));
   const modal = document.getElementById("lightbox-modal");
   const modalImg = document.getElementById("lightbox-image");
   const closeBtn = document.getElementById("close-btn");
