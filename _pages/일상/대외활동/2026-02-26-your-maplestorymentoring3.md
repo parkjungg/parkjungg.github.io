@@ -296,22 +296,27 @@ thumbnail: /assets/img/6/image13.png
 
 다들 너무 좋은 말만 써줘서 내가 롤링페이퍼를 작성할때 조금 더 자세히 써줄 걸 하는 후회가.. 좀 들었다.
 
-   <img src="/assets/img/6/image16.png"
-     alt="이미지"
-     style="
-       max-width: 60%;
-       height: auto;
-       display: block;
-       margin: 20px auto;
-       border-radius: 8px;
-       box-shadow: 0 4px 12px rgba(0,0,0,0.15);
-     ">
+ <div style="display: flex; gap: 20px; justify-content: center;">
+
+  <img src="/assets/img/6/image16.png"
+       style="width: 30%; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+
+  <img src="/assets/img/6/image17.png"
+       style="width: 30%; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+
+  <img src="/assets/img/6/image18.png"
+       style="width: 30%; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+
+  <img src="/assets/img/6/image19.png"
+       style="width: 30%; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+
+</div>
      
 *감동이야 😭*
 
-그렇게 3박 4일 캠프를 모두 마치고, 그동안 함께 했던 사람들과 작별 인사를 하는 것으로 마무리했다.
+그렇게 3박 4일 캠프를 모두 마치고, 그동안 함께 했던 사람들과 작별 인사를 하는 것으로 마무리!!😀
 
-   <img src="/assets/img/6/image17.png"
+   <img src="/assets/img/6/image20.png"
      alt="이미지"
      style="
        max-width: 60%;
