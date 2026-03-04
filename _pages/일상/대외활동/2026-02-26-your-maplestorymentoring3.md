@@ -5,7 +5,7 @@ tags:
   - 메이플스토리
   - 메토링 4기
   - 넥슨 대학생 게임 커리어 캠프
-thumbnail: /assets/img/6/image1.png
+thumbnail: /assets/img/6/image13.png
 ---
 # 3일차(2월 8일)
 
@@ -34,10 +34,10 @@ thumbnail: /assets/img/6/image1.png
 
 <div style="display: flex; gap: 20px; justify-content: center;">
 
-  <img src="/assets/img/4/image1.png"
+  <img src="/assets/img/6/image1.png"
        style="width: 30%; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
 
-  <img src="/assets/img/4/image2.png"
+  <img src="/assets/img/6/image2.png"
        style="width: 30%; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
 
 </div>
@@ -48,7 +48,7 @@ thumbnail: /assets/img/6/image1.png
 
 이녀석이 프롬프트를 너무 간단히 던지면 내가 원하는 방향이 안나와 최대한 자세히 프롬프트를 작성하여 제작해달라고 요청하였다.
 
-<img src="/assets/img/2/image3.png"
+<img src="/assets/img/6/image3.png"
      alt="이미지"
      style="
        max-width: 60%;
@@ -67,17 +67,17 @@ thumbnail: /assets/img/6/image1.png
  
  <div style="display: flex; gap: 20px; justify-content: center;">
 
-  <img src="/assets/img/4/image1.png"
+  <img src="/assets/img/6/image5.png"
        style="width: 30%; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
 
-  <img src="/assets/img/4/image2.png"
+  <img src="/assets/img/6/image6.png"
        style="width: 30%; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
 
 </div>
 
 중간에 점심을 먹고 남은 일회용 필름 카메라를 다 사용하기 위해 사진도 찍고,
 
-<img src="/assets/img/2/image3.png"
+<img src="/assets/img/6/image7.png"
      alt="이미지"
      style="
        max-width: 60%;
@@ -99,10 +99,10 @@ thumbnail: /assets/img/6/image1.png
  
  <div style="display: flex; gap: 20px; justify-content: center;">
 
-  <img src="/assets/img/4/image1.png"
+  <img src="/assets/img/6/image8.png"
        style="width: 30%; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
 
-  <img src="/assets/img/4/image2.png"
+  <img src="/assets/img/6/image9.png"
        style="width: 30%; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
 
 </div>
@@ -121,7 +121,7 @@ thumbnail: /assets/img/6/image1.png
  근데 다른 파티원들은 아예 해본적이 없어서 어쩔수 없이 내가 나가려던 참에... 연습으로 해봤을때 최고기록을 찍은 파티원이 있어 그 친구가 나가기로 결정!!
  
  
- <img src="/assets/img/2/image3.png"
+ <img src="/assets/img/6/image10.png"
      alt="이미지"
      style="
        max-width: 60%;
@@ -150,7 +150,7 @@ thumbnail: /assets/img/6/image1.png
  
  중간엔 캠프측에서 야식으로 피자를 제공하며 응원해주셨다.
  
-  <img src="/assets/img/2/image3.png"
+  <img src="/assets/img/6/image11.png"
      alt="이미지"
      style="
        max-width: 60%;
@@ -179,7 +179,7 @@ thumbnail: /assets/img/6/image1.png
  
  나는 중간에 바깥바람도 여러번 쐬며 리프레시를 했고, 최종 과제 제출 시간인 아침 7시까지 다들 열심히 과제를 해냈다.
  
-   <img src="/assets/img/2/image3.png"
+   <img src="/assets/img/6/image12.png"
      alt="이미지"
      style="
        max-width: 60%;
@@ -209,7 +209,7 @@ thumbnail: /assets/img/6/image1.png
  
 ## 최종 발표
  
- <img src="/assets/img/2/image3.png"
+ <img src="/assets/img/6/image13.png"
      alt="이미지"
      style="
        max-width: 60%;
@@ -232,7 +232,7 @@ thumbnail: /assets/img/6/image1.png
  
  본인은 발표가 끝나자마자 질문에 대한 답변을 돕기 위해 단상으로 나갔지만,,,
  
-  <img src="/assets/img/2/image3.png"
+  <img src="/assets/img/6/image14.png"
      alt="이미지"
      style="
        max-width: 60%;
@@ -268,7 +268,7 @@ thumbnail: /assets/img/6/image1.png
  
  그러나,,,,
  
-   <img src="/assets/img/2/image3.png"
+   <img src="/assets/img/6/image15.png"
      alt="이미지"
      style="
        max-width: 60%;
@@ -296,7 +296,7 @@ thumbnail: /assets/img/6/image1.png
 
 다들 너무 좋은 말만 써줘서 내가 롤링페이퍼를 작성할때 조금 더 자세히 써줄 걸 하는 후회가.. 좀 들었다.
 
-   <img src="/assets/img/2/image3.png"
+   <img src="/assets/img/6/image16.png"
      alt="이미지"
      style="
        max-width: 60%;
@@ -311,7 +311,7 @@ thumbnail: /assets/img/6/image1.png
 
 그렇게 3박 4일 캠프를 모두 마치고, 그동안 함께 했던 사람들과 작별 인사를 하는 것으로 마무리했다.
 
-   <img src="/assets/img/2/image3.png"
+   <img src="/assets/img/6/image17.png"
      alt="이미지"
      style="
        max-width: 60%;
