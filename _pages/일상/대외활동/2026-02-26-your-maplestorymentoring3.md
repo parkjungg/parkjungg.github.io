@@ -352,3 +352,191 @@ thumbnail: /assets/img/6/image13.png
 다들 너무 좋은 사람들이었기에 그런 생각이 더욱 더 크게 드는 것 같다.🥲
 
 이번 캠프 동안 모두 고생많으셨습니다!!😄
+
+<!-- ================= Lightbox Modal ================= -->
+
+<style>
+#lightbox-modal {
+  display: none;
+  position: fixed;
+  z-index: 9999;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.85);
+  justify-content: center;
+  align-items: center;
+}
+
+#lightbox-modal img {
+  max-width: 90%;
+  max-height: 85%;
+  border-radius: 12px;
+  box-shadow: 0 10px 40px rgba(0,0,0,0.5);
+}
+
+.lightbox-btn {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 40px;
+  color: white;
+  cursor: pointer;
+  user-select: none;
+  padding: 20px;
+}
+
+#prev-btn { left: 20px; }
+#next-btn { right: 20px; }
+
+#close-btn {
+  position: absolute;
+  top: 20px;
+  right: 30px;
+  font-size: 35px;
+  color: white;
+  cursor: pointer;
+}
+</style>
+
+<div id="lightbox-modal">
+  <span id="close-btn">&times;</span>
+  <span id="prev-btn" class="lightbox-btn">&#10094;</span>
+  <img id="lightbox-image">
+  <span id="next-btn" class="lightbox-btn">&#10095;</span>
+</div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  const images = Array.from(document.querySelectorAll("img"));
+  const modal = document.getElementById("lightbox-modal");
+  const modalImg = document.getElementById("lightbox-image");
+  const closeBtn = document.getElementById("close-btn");
+  const prevBtn = document.getElementById("prev-btn");
+  const nextBtn = document.getElementById("next-btn");
+
+  let currentIndex = 0;
+
+  function showImage(index) {
+    currentIndex = index;
+    modalImg.src = images[currentIndex].src;
+    modal.style.display = "flex";
+  }
+
+  images.forEach((img, index) => {
+    img.style.cursor = "zoom-in";
+    img.addEventListener("click", function(e) {
+      e.preventDefault();
+      showImage(index);
+    });
+  });
+
+  closeBtn.onclick = () => modal.style.display = "none";
+
+  prevBtn.onclick = () => {
+    currentIndex = (currentIndex - 1 + images.length) % images.length;
+    showImage(currentIndex);
+  };
+
+  nextBtn.onclick = () => {
+    currentIndex = (currentIndex + 1) % images.length;
+    showImage(currentIndex);
+  };
+
+  modal.onclick = (e) => {
+    if (e.target === modal) modal.style.display = "none";
+  };
+});
+</script>
+
+<!-- ================================================== -->
+
+  display: none;
+  position: fixed;
+  z-index: 9999;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.85);
+  justify-content: center;
+  align-items: center;
+}
+
+#lightbox-modal img {
+  max-width: 90%;
+  max-height: 85%;
+  border-radius: 12px;
+  box-shadow: 0 10px 40px rgba(0,0,0,0.5);
+}
+
+.lightbox-btn {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 40px;
+  color: white;
+  cursor: pointer;
+  user-select: none;
+  padding: 20px;
+}
+
+#prev-btn { left: 20px; }
+#next-btn { right: 20px; }
+
+#close-btn {
+  position: absolute;
+  top: 20px;
+  right: 30px;
+  font-size: 35px;
+  color: white;
+  cursor: pointer;
+}
+</style>
+
+<div id="lightbox-modal">
+  <span id="close-btn">&times;</span>
+  <span id="prev-btn" class="lightbox-btn">&#10094;</span>
+  <img id="lightbox-image">
+  <span id="next-btn" class="lightbox-btn">&#10095;</span>
+</div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  const images = Array.from(document.querySelectorAll("img"));
+  const modal = document.getElementById("lightbox-modal");
+  const modalImg = document.getElementById("lightbox-image");
+  const closeBtn = document.getElementById("close-btn");
+  const prevBtn = document.getElementById("prev-btn");
+  const nextBtn = document.getElementById("next-btn");
+
+  let currentIndex = 0;
+
+  function showImage(index) {
+    currentIndex = index;
+    modalImg.src = images[currentIndex].src;
+    modal.style.display = "flex";
+  }
+
+  images.forEach((img, index) => {
+    img.style.cursor = "zoom-in";
+    img.addEventListener("click", function(e) {
+      e.preventDefault();
+      showImage(index);
+    });
+  });
+
+  closeBtn.onclick = () => modal.style.display = "none";
+
+  prevBtn.onclick = () => {
+    currentIndex = (currentIndex - 1 + images.length) % images.length;
+    showImage(currentIndex);
+  };
+
+  nextBtn.onclick = () => {
+    currentIndex = (currentIndex + 1) % images.length;
+    showImage(currentIndex);
+  };
+
+  modal.onclick = (e) => {
+    if (e.target === modal) modal.style.display = "none";
+  };
+});
+</script>
+
+<!-- ================================================== -->
