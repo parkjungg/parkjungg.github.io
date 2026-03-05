@@ -177,5 +177,103 @@ thumbnail: /assets/img/5/image8.png
 하지만 3일차부터는... 과제하느라 정신이 다 팔린..(To be Continue...)
 
 
+<!-- ================= Lightbox Modal ================= -->
+
+<style>
+#lightbox-modal {
+  display: none;
+  position: fixed;
+  z-index: 9999;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.85);
+  justify-content: center;
+  align-items: center;
+}
+
+#lightbox-modal img {
+  max-width: 90%;
+  max-height: 85%;
+  width: auto;
+  height: auto;
+  object-fit: contain;
+  border-radius: 12px;
+  box-shadow: 0 10px 40px rgba(0,0,0,0.5);
+}
+
+.lightbox-btn {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 40px;
+  color: white;
+  cursor: pointer;
+  user-select: none;
+  padding: 20px;
+}
+
+#prev-btn { left: 20px; }
+#next-btn { right: 20px; }
+
+#close-btn {
+  position: absolute;
+  top: 20px;
+  right: 30px;
+  font-size: 35px;
+  color: white;
+  cursor: pointer;
+}
+</style>
+
+<div id="lightbox-modal">
+  <span id="close-btn">&times;</span>
+  <span id="prev-btn" class="lightbox-btn">&#10094;</span>
+  <img id="lightbox-image">
+  <span id="next-btn" class="lightbox-btn">&#10095;</span>
+</div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  const images = Array.from(document.querySelectorAll("img[src^='/assets/img/6/']"));
+  const modal = document.getElementById("lightbox-modal");
+  const modalImg = document.getElementById("lightbox-image");
+  const closeBtn = document.getElementById("close-btn");
+  const prevBtn = document.getElementById("prev-btn");
+  const nextBtn = document.getElementById("next-btn");
+
+  let currentIndex = 0;
+
+  function showImage(index) {
+    currentIndex = index;
+    modalImg.src = images[currentIndex].src;
+    modal.style.display = "flex";
+  }
+
+  images.forEach((img, index) => {
+    img.style.cursor = "zoom-in";
+    img.addEventListener("click", function(e) {
+      e.preventDefault();
+      showImage(index);
+    });
+  });
+
+  closeBtn.onclick = () => modal.style.display = "none";
+
+  prevBtn.onclick = () => {
+    currentIndex = (currentIndex - 1 + images.length) % images.length;
+    showImage(currentIndex);
+  };
+
+  nextBtn.onclick = () => {
+    currentIndex = (currentIndex + 1) % images.length;
+    showImage(currentIndex);
+  };
+
+  modal.onclick = (e) => {
+    if (e.target === modal) modal.style.display = "none";
+  };
+});
+</script>
+
+<!-- ================================================== -->
 
 
