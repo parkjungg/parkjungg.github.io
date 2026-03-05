@@ -233,7 +233,7 @@ thumbnail: /assets/img/5/image8.png
 
 <script>
 document.addEventListener("DOMContentLoaded", function() {
-  const images = Array.from(document.querySelectorAll("img[src^='/assets/img/6/']"));
+  const images = Array.from(document.querySelectorAll("img[src^='/assets/img/5/']"));
   const modal = document.getElementById("lightbox-modal");
   const modalImg = document.getElementById("lightbox-image");
   const closeBtn = document.getElementById("close-btn");
