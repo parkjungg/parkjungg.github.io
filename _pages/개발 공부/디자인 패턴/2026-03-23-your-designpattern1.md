@@ -9,6 +9,8 @@ tags:
 thumbnail: /assets/img/10/image1.png
 ---
 __이글은 개인적인 공부를 위해 작성한 글이며 피드백주시면 수정하도록하겠습니다.(출처 : 면접을 위한 CS 전공지식 노트)
+이미지 출처 : https://refactoring.guru/ko/design-patterns
+----------------------------------
 
 # 디자인 패턴
 
